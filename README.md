@@ -14,7 +14,7 @@ Please cite the paper and star this repo if you use Deep Tensor Network and find
 @article{zhang2023deep,
   title={Deep Tensor Network},
   author={Zhang, Yifan},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2311.11091},
   year={2023}
 }
 ```
